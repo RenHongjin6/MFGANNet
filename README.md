@@ -1,1 +1,1 @@
-# MFGANNet
+# Network
